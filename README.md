@@ -1,0 +1,2 @@
+# Smart-Pantry-working-model-Web-Portal-using-IOT-and-PHP
+Web Portal for ordering grocery at ease - Smart Pantry. Worked on Arduino IDE- interfacing with NODE MCU and used HX711 weight sensor to automatically detect and order when weight less than threshold, send data using POST  http request, Apache Server, MySQL using WampServer software stack, PHP- Server side scripting language to regulate communication between server and client.
